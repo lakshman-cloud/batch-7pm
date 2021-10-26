@@ -1,2 +1,2 @@
 # batch-7pm
-sample repository
+sample devops repository
